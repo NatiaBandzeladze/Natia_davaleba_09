@@ -1,0 +1,44 @@
+body{
+    padding: 20px 0 0;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+}
+header img{
+    height: 60px;
+}
+.navbar ul{
+    display: flex;
+    justify-content: flex-end;
+    max-width: 340px;
+}
+.navbar li{
+    margin-right: 10px;
+    line-height: 25px;
+}
+.section-banner{
+    position: relative;
+    background-color: #E6E6E6;
+    height: 520px;
+}
+.banner-img{
+    position: absolute;
+    width: 1170px;
+    top: 5.7%;
+    left: 7%;
+}
+.banner-logo{
+    position: absolute;
+    height: 30px;
+    top: 430px;
+    left: 1139px;
+}
+.section-banner h3{
+    position: absolute;
+    color: #fff;
+    font-size: 30px;
+    width: 340px;
+    top: 323px;
+    left: 123px;
+}
