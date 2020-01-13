@@ -28,12 +28,6 @@ header img{
     top: 5.7%;
     left: 7%;
 }
-.banner-logo{
-    position: absolute;
-    height: 30px;
-    top: 430px;
-    left: 1139px;
-}
 .section-banner h3{
     position: absolute;
     color: #fff;
@@ -41,4 +35,28 @@ header img{
     width: 340px;
     top: 323px;
     left: 123px;
+}
+.banner-logo{
+    position: absolute;
+    height: 30px;
+    top: 430px;
+    left: 1139px;
+}
+.section-videos{
+    background-color: #363E97;
+    height: 499px;
+}
+.section-videos h4{
+    font-size: 24px;
+    color: #fff;
+    
+}
+.videos{
+    display: flex;
+    justify-content: center;
+   
+}
+.videos div{
+    margin-right: 13px;
+
 }
